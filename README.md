@@ -16,7 +16,7 @@
 `git log`: history info of commits<br>
 `q`: quit of log<br>
 `git rm -r`: delete a file<br>
-</ul>
+
 <p>Useful comands for Terminal:</p>
 
 `cd file`: get in a file<br>
